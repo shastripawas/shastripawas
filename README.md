@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shastripawas
 - 👀 I’m interested in machine learning and scientific computing...
-- 🌱 I’m currently learning deep learning   
+- 🌱 I’m currently learning neural networks and deep learning   
 - 💞️ I’m looking to collaborate on machine learning projects
 - 📫 How to reach me: Email-shastri.pavas@gmail.com
 
